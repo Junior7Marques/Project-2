@@ -25,11 +25,6 @@
         width: 80px;
     }
 
-    .lista-de-personagens .personagem img:hover {
-        box-shadow: 0px 0px 24px 5px #0271f7;
-        scale: 1;
-    }
-
     .personagem-selecionado .personagem-grande{
         width: 350px;
         height: 350px;
